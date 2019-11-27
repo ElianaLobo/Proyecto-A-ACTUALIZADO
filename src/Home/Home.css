@@ -1,0 +1,59 @@
+.PadreAlpha{
+    display: flex;
+  flex-direction: row;
+}
+
+.PadreBeta{
+    width: 60%;
+    
+}
+
+.HijoA{
+  display: block;
+  float: left;
+  background-color: darkblue;
+  position: center;
+  color: lightgray;
+  text-align: center;
+  border-radius: 10px;
+  width: 90%;
+  height: 100px;
+  margin-top: 40px;
+  margin-left: 10px;
+}
+
+.HijoB{
+  display: block;
+  float: right;
+  
+  background-color: darkblue;
+  float: left;
+  position: center;
+  color: lightgray;
+  text-align: center;
+  border-radius: 10px;
+  width: 90%;
+  height: 460px;
+  margin-top: 40px;
+  margin-left: 10px;
+  
+}
+
+.HijoC{
+    display: block;
+    float: right;
+    background-color: darkblue;
+    position: center;
+    color: lightgray;
+    text-align: center;
+    border-radius: 10px;
+    width: 30%;
+    height: 600px;
+   margin-top: 40px;
+   margin-left: 10px;
+}
+
+
+.page{
+    text-align: center;
+}

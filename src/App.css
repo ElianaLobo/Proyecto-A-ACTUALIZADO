@@ -1,0 +1,33 @@
+body{
+  background-color: beige;
+  width: 100%;
+  margin: 1%;
+}
+
+
+.App {
+  text-align: center;
+  width: 100%;
+  margin: 1%;
+}
+
+.Footer{
+  display: block;
+  clear: both;
+  background-color: darkgray;
+  position: center;
+  color: black;
+  text-align: center;
+  border-radius: 10px;
+  width: 90%;
+  height: 20px;
+  margin-top: 40px;
+  margin-left: 5%;
+  margin-bottom: 30px;
+  margin-right: 5%;
+ 
+
+
+ 
+ 
+}
